@@ -1,1 +1,0 @@
-## StegoSaurus Security Encryption Tool
